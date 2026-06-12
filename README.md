@@ -1,2 +1,2 @@
-# FreemontBayProject
-An upcoming NY-inspired PD/Fire/Taxi pack for BeamNG.drive.
+# Freemont Bay Project
+This repository contains the assets for the Freemont Bay collection of Police, Fire, and Taxi vehicles.
