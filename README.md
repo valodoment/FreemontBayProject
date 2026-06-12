@@ -2,7 +2,7 @@
 This repository contains the assets for the Freemont Bay collection of Police, Fire, and Taxi vehicles.
 
 <p align="center">
-	<img src="meta/front.png">
+	<img src="meta/Front.png">
 </p>
 
 ## About the Mod
