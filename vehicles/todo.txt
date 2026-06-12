@@ -1,4 +1,4 @@
-**Freemont Bay Police Department:**
+# Freemont Bay Police Department:
 - Add more generic skins for more vehicles:
 	- D-Series
 	- Sunburst
@@ -12,6 +12,6 @@
 	- MD-Series
 	- MTL Firetruck
 
-**Other:**
+# Other:
 - Add Freemont Bay Fire Services (FBFS) (Based on FDNY)
 - Add Freemont Bay Taxi (NY Taxi)
