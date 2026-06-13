@@ -1,0 +1,11 @@
+{
+"bastion_skin_freemontbay2": {
+    "information":{
+        "authors":"ValoDoment",
+        "name":"Freemont Bay Police (ValoDoment)",
+        "value":2000,
+    },
+    "slotType" : "paint_design",
+    "globalSkin" : "freemontbay2",
+},
+}
