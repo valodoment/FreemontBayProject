@@ -1,0 +1,11 @@
+ {
+   "autobello_skin_freemontbay": {		
+   "information":{
+       "authors":"ValoDoment",				
+       "name":"Freemont Bay Police (ValoDoment)",		
+       "value":200,
+   }
+   "slotType" : "paint_design",
+   "globalSkin" : "freemontbay",			
+   },
+   }
