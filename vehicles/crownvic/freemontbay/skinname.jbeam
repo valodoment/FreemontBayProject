@@ -1,0 +1,20 @@
+   {
+   "crownvic_skin_freemontbay": {
+   "information":{
+       "authors":"VD",
+       "name":"Freemont Bay Police (ValoDoment)",
+       "value":200,
+   }
+   "slotType" : "paint_design",
+   "globalSkin" : "freemontbay",
+   },
+   "crownvic_skin_freemontbay2": {
+   "information":{
+       "authors":"VD",
+       "name":"Freemont Bay Police (K9) (ValoDoment)",
+       "value":200,
+   }
+   "slotType" : "paint_design",
+   "globalSkin" : "freemontbay2",
+   },
+   }

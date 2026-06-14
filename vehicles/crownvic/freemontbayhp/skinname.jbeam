@@ -1,0 +1,11 @@
+   {
+   "crownvic_skin_freemontbayhp": {
+   "information":{
+       "authors":"VD",
+       "name":"Freemont Bay Highway Patrol (ValoDoment)",
+       "value":200,
+   }
+   "slotType" : "paint_design",
+   "globalSkin" : "freemontbayhp",
+   },
+   }
