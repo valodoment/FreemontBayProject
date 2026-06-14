@@ -1,0 +1,20 @@
+ {
+   "fullsize_skin_freemontbay": {			
+   "information":{
+       "authors":"ValoDoment",				
+       "name":"Freemont Bay Police (ValoDoment)",	
+       "value":200,
+   }
+   "slotType" : "paint_design",
+   "globalSkin" : "freemontbay",		
+   },
+   "fullsize_skin_freemontbay2": {			
+   "information":{
+       "authors":"ValoDoment",				
+       "name":"Freemont Bay Highway Patrol (ValoDoment)",	
+       "value":200,
+   }
+   "slotType" : "paint_design",
+   "globalSkin" : "freemontbay2",		
+   },
+   }

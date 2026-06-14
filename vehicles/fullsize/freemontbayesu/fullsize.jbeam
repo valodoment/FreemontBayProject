@@ -1,0 +1,11 @@
+ {
+   "fullsize_skin_freemontbayesu": {			
+   "information":{
+       "authors":"ValoDoment",				
+       "name":"Freemont Bay Police (K9) (ValoDoment)",	
+       "value":200,
+   }
+   "slotType" : "paint_design",
+   "globalSkin" : "freemontbayesu",		
+   },
+   }
