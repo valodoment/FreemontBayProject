@@ -15,9 +15,8 @@ The Freemont Bay Project (skinpack for BeamNG), based on Johan The Channel's ide
 * __FBC Taxi & Limousine Commission__: The operating agency of the in-mod taxis.
 
 ## Contributing
-Go to the `meta` folder, download the source kit at `sourcekit.zip`, unzip it, and open the source files in [Paint.net](https://www.paint.net/). Make sure you have a clear understanding on BeamNG skin-making. If you don't have such knowledge, click [here](https://www.youtube.com/watch?v=LqFkVR2FiYA) to learn about the art.
-
-Next, use the source files to create your FBPD, FBFS, or FB Taxi skin. Before you make it, however, you'll need to reference IRL photos of NYPD, FDNY, or NYC Taxi vehicles. Use [policecarwebsite.net](https://www.policecarwebsite.net/) or Google Images to find references.
+Make sure you have a copy of BeamNG installed on your computer. Reference IRL photos of NYPD, FDNY, or NYC Taxi vehicles to make skins and configurations. Use [policecarwebsite.net](https://www.policecarwebsite.net/) or Google Images to find references.
+Getting started with contributing is easy for BeamNG modders - see [here](CONTRIBUTING.md) for more information.
 
 ## Credits
 
